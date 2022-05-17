@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jedis-3.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jedis-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jedis-3.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

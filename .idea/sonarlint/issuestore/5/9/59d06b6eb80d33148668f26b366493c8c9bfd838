@@ -1,0 +1,42 @@
+
+E
+java:S3740-"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740-"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S37403"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S37403"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740S"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740S"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740e"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740e"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740v"/Provide the parametrized type for this generic.(±æ¿
+E
+java:S3740v"/Provide the parametrized type for this generic.(±æ¿
+j
+java:S1192,"HDefine a constant instead of duplicating this literal "resuser" 3 times.(¨óÒ“þÿÿÿÿ8îŸ¹Å£/
+T
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+T
+java:S1155w">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+n
+java:S1989"SHandle the following exception that could be thrown by "checkUnameOp": IOException.(£ä†Üÿÿÿÿÿ
+c
+java:S1989"NHandle the following exception that could be thrown by "loginOp": IOException.(†öàU
+j
+java:S1989!"OHandle the following exception that could be thrown by "logoutOp": IOException.(ß…ü¶øÿÿÿÿ
+g
+java:S1989#"LHandle the following exception that could be thrown by "regOp": IOException.(”…’»ûÿÿÿÿ
+l
+java:S1989%"QHandle the following exception that could be thrown by "checkLogin": IOException.(àö¿›ÿÿÿÿÿ
+o
+java:S1989'"THandle the following exception that could be thrown by "show404Common": IOException.(Œ¹šÊþÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(üí¤ øÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(„Žþôúÿÿÿÿ

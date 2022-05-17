@@ -1,0 +1,35 @@
+
+R
+java:S25896"7Remove this expression which always evaluates to "true"(½™ïúÿÿÿÿ
+R
+java:S25893"7Remove this expression which always evaluates to "true"(è¹›ýùÿÿÿÿ
+L
+java:S25890"7Remove this expression which always evaluates to "true"(²¹ +
+z
+java:S1149`"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥í¢ðüÿÿÿÿ
+Œ
+java:S1130&"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(®Ó­	
+C	java:S1089")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+>
+java:S1659a"#Declare "green" on a separate line.(Û£ˆÐûÿÿÿÿ
+=
+java:S1659a""Declare "blue" on a separate line.(Û£ˆÐûÿÿÿÿ
+3
+java:S2119J"Save and re-use this "Random".(¼ÝÅf
+K
+java:S1117Y"5Rename "x" which hides the field declared at line 24.(ÞÌ®Õ
+P	java:S125}"<This block of commented-out lines of code should be removed.(€î‹1
+m
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÑÌë
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¦Å¦¹
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¾·˜¹ýÿÿÿÿ
+m
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Õžÿ@
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÇŸÊùÿÿÿÿ
+m
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(½‹ n
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‡—úË

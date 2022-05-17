@@ -1,0 +1,18 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿş¦ëüÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùëi
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğë‡ıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŸÜ‡
+u
+java:S1149u"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿Œ¬ş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²¥À
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(‡”ƒüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(£óŞ×üÿÿÿÿ
+`
+java:S2147i"ECombine this catch with the one at line 103, which has the same body.(ĞĞ¹óúÿÿÿÿ
+T
+java:S4719c"9Replace charset name argument with StandardCharsets.UTF_8(€«ÅÕøÿÿÿÿ
+S
+java:S1197d"8Move the array designator from the variable to the type.(ùç÷øÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(‹€ï„øÿÿÿÿ

@@ -1,0 +1,11 @@
+
+J
+java:S3740("/Provide the parametrized type for this generic.(ù“§ôûÿÿÿÿ
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÿÕô‰
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(µºŞÈûÿÿÿÿ
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(úôÌşÿÿÿÿ8û¨µß¥/
+M
+java:S1144K"2Remove this unused private "findGetMethod" method.(¼ğĞêıÿÿÿÿ
